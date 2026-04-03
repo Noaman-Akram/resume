@@ -8,21 +8,17 @@
 
 ## Summary
 
-Winner of the **Huawei Africa Competition ('25)**. Built a **full‑stack solution** for a **Fortune 500** client as a **freelancer**, managing the entire project end‑to‑end. Currently consulting at **Zoho Corporation**, delivering **ERP & CRM solutions** to enterprises across the **Middle East**. **3x SAP Certified** **Senior Full Stack Engineer** and **AI graduate**.
+Winner of the **Huawei Africa Competition ('25)**. Built a full‑stack solution for a **Fortune 500** client as a freelancer, managing the entire project end‑to‑end. Currently consulting at **Zoho Corporation**, delivering ERP & CRM solutions to enterprises across the Middle East. 3x **SAP Certified** Senior Full Stack Engineer and AI graduate.
 
 ---
 
 ## Education
 
-**BSc Computer Science — AI Specialization**  
-London South Bank University (BUE)  
-*Sep 2020 – Jul 2024*  
-**GPA: 3.6**  
-Accredited by The British University in Egypt
+**BSc Computer Science — AI Specialization** · **GPA: 3.6** · London South Bank University (BUE)  
+*Sep 2020 – Jul 2024* · Accredited by The British University in Egypt
 
-**IGCSE**  
-English British International Schools (EBIS)  
-*Sep 2017 – Jul 2020*
+**IGCSE** · English British International Schools (EBIS) · *Sep 2017 – Jul 2020*
+
 
 ---
 
