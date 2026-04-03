@@ -26,29 +26,29 @@ Winner of the **Huawei Africa Competition ('25)**. Built a full‑stack solution
 
 ### **Technical Consultant** | Zoho Corporation
 *Aug 2025 – Present*
-- Leading **end-to-end CRM and ERP implementations** for **enterprise-level clients** in KSA and UAE.
-- Designing **custom solutions**, automating modules, and **integrating third-party applications** via APIs, Postman, and SQL.
-- Reduced **API errors by 35%** through **optimized logging** and technical analysis.
-- Tech Stack: **Python**, **JavaScript**.
+- Leading end-to-end CRM and ERP implementations for enterprise-level clients in KSA and UAE.
+- Designing custom solutions, automating modules, and integrating third-party applications via APIs, Postman, and SQL.
+- Reduced API errors by **35%** through optimized logging and technical analysis.
+- Tech Stack: Python, JavaScript.
 
 ### **Graduate Program (Young Professionals Program)** | SAP
 *Jun 2025 – Aug 2025*
-- Selected as one of **30 candidates from over 2,000 applicants** for an intensive training program.
-- Specialized in **SAP S/4HANA Cloud** and **SAP Business Technology Platform (BTP)** architecture.
-- Earned **global certifications** in Integration Development and Implementation Consulting.
+- Selected as one of **30 candidates** from over 2,000 applicants for an intensive training program.
+- Specialized in SAP S/4HANA Cloud and SAP Business Technology Platform (BTP) architecture.
+- Earned global certifications in Integration Development and Implementation Consulting.
 
 ### **Full Stack Developer** | Almasria Marble & Granite
 *Aug 2024 – Apr 2025*
-- Developed and maintained **corporate websites**, **e-commerce platforms**, and **custom CRM systems**.
-- Delivered **production-grade full-stack solutions** for high-profile clients, managing the lifecycle from scoping to deployment.
+- Developed and maintained corporate websites, e-commerce platforms, and custom CRM systems.
+- Delivered production-grade full-stack solutions for high-profile clients, managing the lifecycle from scoping to deployment.
 - Optimized properties to achieve **90+ Google PageSpeed** scores across all platforms.
-- Tech Stack: **JavaScript**, **Angular**, **PHP**, **PostgreSQL**.
+- Tech Stack: JavaScript, Angular, PHP, PostgreSQL.
 
 ### **Software Engineer Intern** | Giza Systems
 *Jun 2023 – Aug 2023*
-- Developed **IoT full-stack web applications** using **Angular**, **Java Spring Boot**, and RESTful APIs.
-- Leveraged **JHipster** to automate code generation, boosting **development speed by 31%**.
-- Optimized **MySQL databases** with advanced indexing for large-scale **IoT time-series data**.
+- Developed IoT full-stack web applications using Angular, Java Spring Boot, and RESTful APIs.
+- Leveraged JHipster to automate code generation, boosting development speed by **31%**.
+- Optimized MySQL databases with advanced indexing for large-scale IoT time-series data.
 
 ---
 
